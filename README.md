@@ -8,7 +8,7 @@ MERN stack developer. Builds scalable, high-performing web apps with JavaScript
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [zahid.h.khan10@gmail.com](mailto:zahid.h.khan10@gmail.com)
-* 🧠  I'm learning ReactJs and NextJs
+* 🧠  I'm learning Core Java and Spring-Boot
 
 ### Skills
 
