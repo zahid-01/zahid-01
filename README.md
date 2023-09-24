@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-MERN stack developer. Builds scalable, high-performing web apps with JavaScript
+Full stack developer. Builds scalable, high-performing web apps with JavaScript and Java.
+
+#JAVA #SPRING-BOOT #NODEJS #EXPRESSJS #JAVA SWING #REACTJS
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [zahid.h.khan10@gmail.com](mailto:zahid.h.khan10@gmail.com)
