@@ -9,7 +9,7 @@ Full stack developer. Builds scalable, high-performing web apps with JavaScript 
 #JAVA #SPRING-BOOT #NODEJS #EXPRESSJS #JAVA SWING #REACTJS
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [zahid.h.khan10@gmail.com](mailto:zahid.h.khan10@gmail.com)
+* ✉️  You can contact me at [dev.zahidhk@gmail.com](mailto:dev.zahidhk@gmail.com)
 * 🧠  I'm learning Core Java and Spring-Boot
 
 ### Skills
