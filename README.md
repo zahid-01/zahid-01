@@ -9,7 +9,7 @@ I build production web apps, cross-platform mobile apps, and the automation glue
 \#NEXTJS \#REACT \#NODEJS \#TYPESCRIPT \#FLUTTER \#POSTGRESQL \#MONGODB \#AZURE \#N8N \#ZOHO-DELUGE
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [dev.zahidhk@gmail.com](mailto:zahid@zahidio.com)
+* ✉️  You can contact me at [zahid@zahidio.com](mailto:zahid@zahidio.com)
 * 🛠️  I work across web, mobile, CRM customization, and workflow automation
 * 🤝  Open to freelance and consulting work
 
